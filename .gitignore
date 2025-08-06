@@ -64,3 +64,5 @@ coverage.xml
 
 # OS
 Thumbs.db
+
+data/
